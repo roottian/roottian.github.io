@@ -1,4 +1,4 @@
-<%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
@@ -19,25 +19,25 @@
 		<div class="main">
 			<div class="menuBar">
 				<ul>
-					<li><a href="${pageContext.request.contextPath }" class="menu"
+					<li><a href="#" class="menu"
 						id="menu1">首页</a></li>
 
-					<li><a href="${pageContext.request.contextPath }/kaoyu.jsp"
+					<li><a href="kaoyu.html"
 						class="menu" id="menu2">烤鱼</a></li>
 
-					<li><a href="${pageContext.request.contextPath }/ganguo.jsp"
+					<li><a href="ganguo.html"
 						class="menu">干锅</a></li>
 
-					<li><a href="${pageContext.request.contextPath }chaocai.jsp"
+					<li><a href="chaocai.html"
 						class="menu">炒菜</a></li>
 
-					<li><a href="${pageContext.request.contextPath }/lucai.jsp"
+					<li><a href="lucai.html"
 						class="menu">卤菜</a></li>
 
-					<li><a href="${pageContext.request.contextPath }/shaokao.jsp"
+					<li><a href="shaokao.html"
 						class="menu">烧烤</a></li>
 
-					<li><a href="${pageContext.request.contextPath }/other.jsp"
+					<li><a href="other.html"
 						class="menu">其它</a></li>
 				</ul>
 			</div>
