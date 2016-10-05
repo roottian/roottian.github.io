@@ -29,6 +29,7 @@
 	width: 80%;
 	height: auto;
 	margin: auto;
+	background-color: green;
 }
 
 .menuBar {
@@ -112,7 +113,6 @@ p {
 }
 
 .p6{
-		color:#f60;
+	color:#f60;
 	margin-top: 20px;
 }
-
